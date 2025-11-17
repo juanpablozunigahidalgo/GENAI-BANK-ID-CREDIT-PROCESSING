@@ -1,10 +1,10 @@
-GENAI-DANSKE-BANK-CREDIT-ID-PROCESSING
+GENAI-BANK-CREDIT-ID-PROCESSING
 ======================================
 
 📌 PURPOSE
 ----------
 This project is a proof-of-concept for a GenAI-based customer onboarding and ID verification system,
-built as a home assignment for the GenAI Specialist role at Danske Bank.
+built as a home assignment for the GenAI Specialist role at Bank.
 
 The goal: Use large language models (LLMs), AWS services, and real-world compliance rules to automate
 and accelerate how a bank handles new customer applications across the Nordic region.
@@ -50,7 +50,7 @@ and accelerate how a bank handles new customer applications across the Nordic re
 📥 GETTING STARTED (DEVELOPERS)
 -------------------------------
 1. Clone the repository:
-   git clone https://github.com/yourname/GENAI-DANSKE-BANK-CREDIT-ID-PROCESSING.git
+   git clone https://github.com/yourname/GENAI-BANK-CREDIT-ID-PROCESSING.git
 
 2. Set up your environment:
    python -m venv venv
@@ -156,7 +156,7 @@ You can find this short 5-minute video that:
 👋 CREDITS & CONTACT
 ---------------------
 Built by Juan Pablo Zuniga H + AI-copilot. 
-For the Danske Bank GenAI Specialist Technical Assignment  
+For the Bank GenAI Specialist Technical Assignment  
 Open to feedback, discussion, and deeper demos on request.
 Time estimated on duty : 25 hours.
 
